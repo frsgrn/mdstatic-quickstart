@@ -1,0 +1,15 @@
+{
+  "name": "mdstatic-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx mdstatic build",
+    "serve": "npx mdstatic serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdstatic": "*"
+  }
+}
