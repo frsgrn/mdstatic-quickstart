@@ -1,4 +1,5 @@
 # mdstatic-quickstart
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04cc6378-7780-4085-a9c6-6a4e2bf26cc3/deploy-status)](https://app.netlify.com/sites/mdstatic-quickstart/deploys)
 ```bash
 > git clone https://github.com/frsgrn/mdstatic-quickstart.git
 > cd mdstatic-quickstart
