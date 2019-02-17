@@ -1,4 +1,5 @@
 ---
+template: "default"
 author:  "Victor Forsgren"
 description: "Quickstart for mdstatic."
 ---
